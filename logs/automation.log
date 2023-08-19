@@ -1,0 +1,610 @@
+08/19/2023 03:59:57 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:00:24 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:00:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:00:26 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:00:26 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:00:26 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:00:26 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:00:28 PM: INFO: Driver downloading response is 200
+08/19/2023 04:00:29 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:00:29 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:02:00 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:04:51 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:05:00 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:05:02 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:05:02 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:05:02 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:05:02 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:05:03 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:05:04 PM: INFO: Driver downloading response is 200
+08/19/2023 04:05:05 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:05:05 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:05:34 PM: INFO: Register my ID
+08/19/2023 04:18:11 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:18:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:18:23 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:18:23 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:18:23 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:18:23 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:18:24 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:18:25 PM: INFO: Driver downloading response is 200
+08/19/2023 04:18:26 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:18:26 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:18:47 PM: INFO: Register my ID
+08/19/2023 04:21:13 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:21:31 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:21:32 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:21:32 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:21:32 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:21:33 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:21:33 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:21:34 PM: INFO: Driver downloading response is 200
+08/19/2023 04:21:35 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:21:36 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:21:50 PM: INFO: Register my ID
+08/19/2023 04:37:13 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:37:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:37:23 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:37:23 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:37:23 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:37:23 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:37:24 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:37:26 PM: INFO: Driver downloading response is 200
+08/19/2023 04:37:27 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:37:27 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:38:12 PM: INFO: NAGATIVE LOG IN
+08/19/2023 04:40:49 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:41:09 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:41:10 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:41:10 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:41:10 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:41:11 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:41:11 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:41:13 PM: INFO: Driver downloading response is 200
+08/19/2023 04:41:14 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:41:14 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:42:00 PM: INFO: NAGATIVE LOG IN
+08/19/2023 04:42:55 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:43:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:43:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:43:04 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:43:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:43:05 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:43:05 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:43:06 PM: INFO: Driver downloading response is 200
+08/19/2023 04:43:07 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:43:07 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:43:26 PM: INFO: NAGATIVE LOG IN
+08/19/2023 04:43:32 PM: INFO: NAGATIVE LOG IN
+08/19/2023 04:47:35 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:47:44 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:47:44 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:47:45 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:47:45 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:47:45 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:47:46 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:47:48 PM: INFO: Driver downloading response is 200
+08/19/2023 04:47:49 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:47:49 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:48:09 PM: INFO: NAGATIVE LOG IN
+08/19/2023 04:48:14 PM: INFO: input wrong password
+08/19/2023 04:48:18 PM: INFO: POSITIVE LOG IN
+08/19/2023 04:49:04 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:49:04 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:49:13 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:13 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:13 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:13 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:13 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:49:13 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:49:13 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:13 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:14 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:49:14 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:49:14 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:49:14 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:49:15 PM: INFO: Driver downloading response is 200
+08/19/2023 04:49:15 PM: INFO: Driver downloading response is 200
+08/19/2023 04:49:16 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:16 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:16 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:49:16 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:49:35 PM: INFO: NAGATIVE LOG IN
+08/19/2023 04:49:35 PM: INFO: NAGATIVE LOG IN
+08/19/2023 04:49:39 PM: INFO: input wrong password
+08/19/2023 04:49:39 PM: INFO: input wrong password
+08/19/2023 04:49:42 PM: INFO: POSITIVE LOG IN
+08/19/2023 04:49:42 PM: INFO: POSITIVE LOG IN
+08/19/2023 04:49:49 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:49:49 PM: INFO: ====== WebDriver manager ======
+08/19/2023 04:49:58 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:58 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:58 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:58 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:59 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:49:59 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 04:49:59 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:59 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:49:59 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:49:59 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 04:49:59 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:49:59 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 04:50:01 PM: INFO: Driver downloading response is 200
+08/19/2023 04:50:01 PM: INFO: Driver downloading response is 200
+08/19/2023 04:50:02 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:50:02 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 04:50:02 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:50:02 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 04:50:15 PM: INFO: Register my ID
+08/19/2023 04:50:15 PM: INFO: Register my ID
+08/19/2023 08:29:01 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:29:01 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:29:01 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:29:01 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:29:09 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:09 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:09 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:09 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:11 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:11 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:11 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:11 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:12 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:29:12 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:29:12 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:29:12 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:29:12 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:12 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:12 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:12 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:12 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:29:12 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:29:12 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:29:12 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:29:12 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:29:12 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:29:12 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:29:12 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:29:14 PM: INFO: Driver downloading response is 200
+08/19/2023 08:29:14 PM: INFO: Driver downloading response is 200
+08/19/2023 08:29:14 PM: INFO: Driver downloading response is 200
+08/19/2023 08:29:14 PM: INFO: Driver downloading response is 200
+08/19/2023 08:29:15 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:15 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:15 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:15 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:29:15 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:29:15 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:29:15 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:29:15 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:29:45 PM: INFO: ******** Register my ID ********
+08/19/2023 08:29:45 PM: INFO: ******** Register my ID ********
+08/19/2023 08:29:45 PM: INFO: ******** Register my ID ********
+08/19/2023 08:29:45 PM: INFO: ******** Register my ID ********
+08/19/2023 08:30:03 PM: INFO: ******** Registration Complete testcase passed ***********
+08/19/2023 08:30:03 PM: INFO: ******** Registration Complete testcase passed ***********
+08/19/2023 08:30:03 PM: INFO: ******** Registration Complete testcase passed ***********
+08/19/2023 08:30:03 PM: INFO: ******** Registration Complete testcase passed ***********
+08/19/2023 08:30:08 PM: INFO: ******* TEST_REGISTER IS COMPLETED **********
+08/19/2023 08:30:08 PM: INFO: ******* TEST_REGISTER IS COMPLETED **********
+08/19/2023 08:30:08 PM: INFO: ******* TEST_REGISTER IS COMPLETED **********
+08/19/2023 08:30:08 PM: INFO: ******* TEST_REGISTER IS COMPLETED **********
+08/19/2023 08:30:08 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:30:08 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:30:08 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:30:08 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:30:17 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:17 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:17 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:17 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:17 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:17 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:17 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:17 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:18 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:30:18 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:30:18 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:30:18 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:30:18 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:18 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:18 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:18 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:18 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:30:18 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:30:18 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:30:18 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:30:18 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:30:18 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:30:18 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:30:18 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:30:20 PM: INFO: Driver downloading response is 200
+08/19/2023 08:30:20 PM: INFO: Driver downloading response is 200
+08/19/2023 08:30:20 PM: INFO: Driver downloading response is 200
+08/19/2023 08:30:20 PM: INFO: Driver downloading response is 200
+08/19/2023 08:30:21 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:21 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:21 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:21 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:30:21 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:30:21 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:30:21 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:30:21 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:30:45 PM: INFO: ********* NAGATIVE LOG IN ********
+08/19/2023 08:30:45 PM: INFO: ********* NAGATIVE LOG IN ********
+08/19/2023 08:30:45 PM: INFO: ********* NAGATIVE LOG IN ********
+08/19/2023 08:30:45 PM: INFO: ********* NAGATIVE LOG IN ********
+08/19/2023 08:30:57 PM: INFO: ******* input wrong password ***********
+08/19/2023 08:30:57 PM: INFO: ******* input wrong password ***********
+08/19/2023 08:30:57 PM: INFO: ******* input wrong password ***********
+08/19/2023 08:30:57 PM: INFO: ******* input wrong password ***********
+08/19/2023 08:30:59 PM: INFO: ******** POSITIVE LOG IN ************
+08/19/2023 08:30:59 PM: INFO: ******** POSITIVE LOG IN ************
+08/19/2023 08:30:59 PM: INFO: ******** POSITIVE LOG IN ************
+08/19/2023 08:30:59 PM: INFO: ******** POSITIVE LOG IN ************
+08/19/2023 08:31:04 PM: INFO: ******** Test Login successful ********
+08/19/2023 08:31:04 PM: INFO: ******** Test Login successful ********
+08/19/2023 08:31:04 PM: INFO: ******** Test Login successful ********
+08/19/2023 08:31:04 PM: INFO: ******** Test Login successful ********
+08/19/2023 08:31:09 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:31:09 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:31:09 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:31:09 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:31:19 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:19 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:19 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:19 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:31:20 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:31:20 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:31:20 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:31:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:20 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:31:20 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:31:20 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:31:20 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:31:21 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:31:21 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:31:21 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:31:21 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:31:22 PM: INFO: Driver downloading response is 200
+08/19/2023 08:31:22 PM: INFO: Driver downloading response is 200
+08/19/2023 08:31:22 PM: INFO: Driver downloading response is 200
+08/19/2023 08:31:22 PM: INFO: Driver downloading response is 200
+08/19/2023 08:31:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:23 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:31:23 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:31:23 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:31:23 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:31:36 PM: INFO: ******** select the products ********
+08/19/2023 08:31:36 PM: INFO: ******** select the products ********
+08/19/2023 08:31:36 PM: INFO: ******** select the products ********
+08/19/2023 08:31:36 PM: INFO: ******** select the products ********
+08/19/2023 08:31:47 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:31:47 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:31:47 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:31:47 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:31:54 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:54 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:54 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:54 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:54 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:54 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:54 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:54 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:55 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:31:55 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:31:55 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:31:55 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:31:55 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:55 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:55 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:55 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:55 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:31:55 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:31:55 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:31:55 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:31:56 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:31:56 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:31:56 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:31:56 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:31:56 PM: INFO: Driver downloading response is 200
+08/19/2023 08:31:56 PM: INFO: Driver downloading response is 200
+08/19/2023 08:31:56 PM: INFO: Driver downloading response is 200
+08/19/2023 08:31:56 PM: INFO: Driver downloading response is 200
+08/19/2023 08:31:57 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:57 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:57 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:57 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:31:57 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:31:57 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:31:57 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:31:57 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:32:13 PM: INFO: ******** Order the products ********
+08/19/2023 08:32:13 PM: INFO: ******** Order the products ********
+08/19/2023 08:32:13 PM: INFO: ******** Order the products ********
+08/19/2023 08:32:13 PM: INFO: ******** Order the products ********
+08/19/2023 08:36:29 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:36:37 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:36:38 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:36:38 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:36:38 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:36:39 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:36:39 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:36:41 PM: INFO: Driver downloading response is 200
+08/19/2023 08:36:42 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:36:42 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:36:56 PM: INFO: ******** select the products ********
+08/19/2023 08:47:11 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:47:11 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:47:11 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:47:11 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:47:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:20 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:47:22 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:47:22 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:47:22 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:47:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:22 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:47:22 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:47:22 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:47:22 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:47:23 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:47:23 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:47:23 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:47:23 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:47:24 PM: INFO: Driver downloading response is 200
+08/19/2023 08:47:24 PM: INFO: Driver downloading response is 200
+08/19/2023 08:47:24 PM: INFO: Driver downloading response is 200
+08/19/2023 08:47:24 PM: INFO: Driver downloading response is 200
+08/19/2023 08:47:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:47:25 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:47:25 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:47:25 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:47:25 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:47:54 PM: INFO: ******** Register my ID ********
+08/19/2023 08:47:54 PM: INFO: ******** Register my ID ********
+08/19/2023 08:47:54 PM: INFO: ******** Register my ID ********
+08/19/2023 08:47:54 PM: INFO: ******** Register my ID ********
+08/19/2023 08:48:13 PM: INFO: ********* Testcase Falied ***********
+08/19/2023 08:48:13 PM: INFO: ********* Testcase Falied ***********
+08/19/2023 08:48:13 PM: INFO: ********* Testcase Falied ***********
+08/19/2023 08:48:13 PM: INFO: ********* Testcase Falied ***********
+08/19/2023 08:48:17 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:48:17 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:48:17 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:48:17 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:49:17 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:49:17 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:49:17 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:49:17 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:49:24 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:24 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:24 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:24 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:49:25 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:49:25 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:49:25 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:49:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:25 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:49:25 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:49:25 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:49:25 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:49:26 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:49:26 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:49:26 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:49:26 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:49:28 PM: INFO: Driver downloading response is 200
+08/19/2023 08:49:28 PM: INFO: Driver downloading response is 200
+08/19/2023 08:49:28 PM: INFO: Driver downloading response is 200
+08/19/2023 08:49:28 PM: INFO: Driver downloading response is 200
+08/19/2023 08:49:28 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:28 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:28 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:28 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:49:29 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:49:29 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:49:29 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:49:29 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:49:42 PM: INFO: ******** Register my ID ********
+08/19/2023 08:49:42 PM: INFO: ******** Register my ID ********
+08/19/2023 08:49:42 PM: INFO: ******** Register my ID ********
+08/19/2023 08:49:42 PM: INFO: ******** Register my ID ********
+08/19/2023 08:49:53 PM: INFO: ******** Registration Complete testcase passed ***********
+08/19/2023 08:49:53 PM: INFO: ******** Registration Complete testcase passed ***********
+08/19/2023 08:49:53 PM: INFO: ******** Registration Complete testcase passed ***********
+08/19/2023 08:49:53 PM: INFO: ******** Registration Complete testcase passed ***********
+08/19/2023 08:49:57 PM: INFO: ******* TEST_REGISTER IS COMPLETED **********
+08/19/2023 08:49:57 PM: INFO: ******* TEST_REGISTER IS COMPLETED **********
+08/19/2023 08:49:57 PM: INFO: ******* TEST_REGISTER IS COMPLETED **********
+08/19/2023 08:49:57 PM: INFO: ******* TEST_REGISTER IS COMPLETED **********
+08/19/2023 08:49:57 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:49:57 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:49:57 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:49:57 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:50:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:04 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:05 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:50:05 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:50:05 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:50:05 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:50:05 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:05 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:05 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:05 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:05 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:50:05 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:50:05 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:50:05 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:50:06 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:50:06 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:50:06 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:50:06 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:50:07 PM: INFO: Driver downloading response is 200
+08/19/2023 08:50:07 PM: INFO: Driver downloading response is 200
+08/19/2023 08:50:07 PM: INFO: Driver downloading response is 200
+08/19/2023 08:50:07 PM: INFO: Driver downloading response is 200
+08/19/2023 08:50:08 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:08 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:08 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:08 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:08 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:50:08 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:50:08 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:50:08 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:50:26 PM: INFO: ********* NAGATIVE LOG IN ********
+08/19/2023 08:50:26 PM: INFO: ********* NAGATIVE LOG IN ********
+08/19/2023 08:50:26 PM: INFO: ********* NAGATIVE LOG IN ********
+08/19/2023 08:50:26 PM: INFO: ********* NAGATIVE LOG IN ********
+08/19/2023 08:50:29 PM: INFO: ******* input wrong password ***********
+08/19/2023 08:50:29 PM: INFO: ******* input wrong password ***********
+08/19/2023 08:50:29 PM: INFO: ******* input wrong password ***********
+08/19/2023 08:50:29 PM: INFO: ******* input wrong password ***********
+08/19/2023 08:50:31 PM: INFO: ******** POSITIVE LOG IN ************
+08/19/2023 08:50:31 PM: INFO: ******** POSITIVE LOG IN ************
+08/19/2023 08:50:31 PM: INFO: ******** POSITIVE LOG IN ************
+08/19/2023 08:50:31 PM: INFO: ******** POSITIVE LOG IN ************
+08/19/2023 08:50:37 PM: INFO: ******** Test Login successful ********
+08/19/2023 08:50:37 PM: INFO: ******** Test Login successful ********
+08/19/2023 08:50:37 PM: INFO: ******** Test Login successful ********
+08/19/2023 08:50:37 PM: INFO: ******** Test Login successful ********
+08/19/2023 08:50:40 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:50:40 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:50:40 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:50:40 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:50:47 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:50:47 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:50:47 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:47 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:48 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:50:48 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:50:48 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:50:48 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:50:48 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:50:48 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:50:48 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:50:48 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:50:50 PM: INFO: Driver downloading response is 200
+08/19/2023 08:50:50 PM: INFO: Driver downloading response is 200
+08/19/2023 08:50:50 PM: INFO: Driver downloading response is 200
+08/19/2023 08:50:50 PM: INFO: Driver downloading response is 200
+08/19/2023 08:50:51 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:51 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:51 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:51 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:50:51 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:50:51 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:50:51 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:50:51 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:51:06 PM: INFO: ******** select the products ********
+08/19/2023 08:51:06 PM: INFO: ******** select the products ********
+08/19/2023 08:51:06 PM: INFO: ******** select the products ********
+08/19/2023 08:51:06 PM: INFO: ******** select the products ********
+08/19/2023 08:51:14 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:51:14 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:51:14 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:51:14 PM: INFO: ====== WebDriver manager ======
+08/19/2023 08:51:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:22 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:23 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:51:23 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:51:23 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:51:23 PM: INFO: There is no [win64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08/19/2023 08:51:23 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:23 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:23 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:23 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:23 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:51:23 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:51:23 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:51:23 PM: INFO: Getting latest mozilla release info for v0.33.0
+08/19/2023 08:51:24 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:51:24 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:51:24 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:51:24 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+08/19/2023 08:51:25 PM: INFO: Driver downloading response is 200
+08/19/2023 08:51:25 PM: INFO: Driver downloading response is 200
+08/19/2023 08:51:25 PM: INFO: Driver downloading response is 200
+08/19/2023 08:51:25 PM: INFO: Driver downloading response is 200
+08/19/2023 08:51:26 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:26 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:26 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:26 PM: INFO: Get LATEST geckodriver version for 116.0 firefox
+08/19/2023 08:51:27 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:51:27 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:51:27 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:51:27 PM: INFO: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.33.0]
+08/19/2023 08:51:46 PM: INFO: ******** Order the products ********
+08/19/2023 08:51:46 PM: INFO: ******** Order the products ********
+08/19/2023 08:51:46 PM: INFO: ******** Order the products ********
+08/19/2023 08:51:46 PM: INFO: ******** Order the products ********
+08/19/2023 08:52:02 PM: INFO: ****** Biiling address saved ******
+08/19/2023 08:52:02 PM: INFO: ****** Biiling address saved ******
+08/19/2023 08:52:02 PM: INFO: ****** Biiling address saved ******
+08/19/2023 08:52:02 PM: INFO: ****** Biiling address saved ******
+08/19/2023 08:52:03 PM: INFO: ****** Shipping way saved ******
+08/19/2023 08:52:03 PM: INFO: ****** Shipping way saved ******
+08/19/2023 08:52:03 PM: INFO: ****** Shipping way saved ******
+08/19/2023 08:52:03 PM: INFO: ****** Shipping way saved ******
+08/19/2023 08:52:03 PM: INFO: ****** payment option saved ******
+08/19/2023 08:52:03 PM: INFO: ****** payment option saved ******
+08/19/2023 08:52:03 PM: INFO: ****** payment option saved ******
+08/19/2023 08:52:03 PM: INFO: ****** payment option saved ******
+08/19/2023 08:52:07 PM: INFO: ****** Payment Info Save ******
+08/19/2023 08:52:07 PM: INFO: ****** Payment Info Save ******
+08/19/2023 08:52:07 PM: INFO: ****** Payment Info Save ******
+08/19/2023 08:52:07 PM: INFO: ****** Payment Info Save ******
